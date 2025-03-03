@@ -14,7 +14,7 @@
 GLfloat vertices[] =
 { //     COORDINATES     /        COLORS      /   TexCoord  //
 	-0.5f, -0.5f, 0.0f,     0.0f, 0.0f, 1.0f,	-1.0f, -1.0f, // Lower left corner
-	-0.5f,  0.5f, 0.0f,     0.0f, 0.0f, 1.0f,	-1.0f,  1.0f, // Upper left corner
+	-0.5f,  0.5f, 0.0f,     1.0f, 1.0f, 1.0f,	-1.0f,  1.0f, // Upper left corner
 	 0.5f,  0.5f, 0.0f,     1.0f, 0.0f, 0.0f,	 1.0f,  1.0f, // Upper right corner
 	 0.5f, -0.5f, 0.0f,     1.0f, 1.0f, 1.0f, 	 1.0f, -1.0f  // Lower right corner//     COORDINATES     /        COLORS      /   TexCoord  //
 	//-0.5f, -0.5f, 0.0f,     1.0f, 0.0f, 0.0f,	0.0f, 0.0f, // Lower left corner

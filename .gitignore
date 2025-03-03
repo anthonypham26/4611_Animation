@@ -1,0 +1,28 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore build directory
+/build/
+
+# Ignore compiled binary files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Ignore OpenGL shader binary caches (if applicable)
+*.spv
+*.bin
+
+# Ignore CMake temporary files (if using CMake)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Ignore logs
+*.log
+
